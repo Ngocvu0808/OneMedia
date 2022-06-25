@@ -9,8 +9,8 @@ package controller;
  * @author Admin
  */
 public interface ProductController {
-    public void edit();
-    public void add();
-    public void getAll();
+    public void editProduct();
+    public void addProduct();
+    public void getAllProduct();
     public void addToStock();
 }

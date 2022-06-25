@@ -8,7 +8,6 @@ import java.util.List;
 import person.Customer;
 import person.Employee;
 import product.Product;
-import person.Person;
 /**
  *
  * @author Admin
@@ -16,5 +15,6 @@ import person.Person;
 public class OneMedia {
     private List<Product> listProducts;
     private List<Employee> listEmployees;
-    private List<Customer> listCustomers;    
+    private List<Customer> listCustomers;
+    //chua hoan thien    
 }

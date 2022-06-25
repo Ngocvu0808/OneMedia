@@ -9,5 +9,5 @@ package controller;
  * @author Admin
  */
 public interface FinanceController {
-    public void create();
+    public void createFinance();
 }

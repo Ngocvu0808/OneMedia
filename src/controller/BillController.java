@@ -9,8 +9,8 @@ package controller;
  * @author Admin
  */
 public interface BillController {
-    public void create();
+    public void createBill();
     
-    public void update();
+    public void updateBill();
     
 }

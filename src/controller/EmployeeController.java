@@ -9,5 +9,8 @@ package controller;
  * @author Admin
  */
 public interface EmployeeController {
-    
+    public void addEmployee();
+    public void deleteEmployee();
+    public void editEmployee();
+    public void getAllEmployee();
 }
